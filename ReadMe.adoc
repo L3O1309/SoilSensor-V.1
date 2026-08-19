@@ -20,3 +20,10 @@
 == Step 3: Criação as variáveis na aba Things do Arduino Cloud Editor
 
 == Step 4: Interligação das variáveis com o sketch e escrita do código
+
+== Step 5: Crie um Dashbord no Arduino Cloud editor e interligue a variáveis com seus devidos parâmetros
+
+== Step 6: Use o App do Arduino IoT no seu celular e veja a medida dos sensores em tempo real
+É um ponto importante lembrar que sem energia o sistema não funciona
+Lembre-se também que não vai gerar resultados em tempo real sem o Arduino estar conectado à internet
+Obs: O Arduino pode ser substituido por uma EP32 caso prefira
