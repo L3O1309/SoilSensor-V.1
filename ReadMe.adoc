@@ -24,6 +24,6 @@
 == Step 5: Crie um Dashbord no Arduino Cloud editor e interligue a variáveis com seus devidos parâmetros
 
 == Step 6: Use o App do Arduino IoT no seu celular e veja a medida dos sensores em tempo real
-É um ponto importante lembrar que sem energia o sistema não funciona
-Lembre-se também que não vai gerar resultados em tempo real sem o Arduino estar conectado à internet
-Obs: O Arduino pode ser substituido por uma EP32 caso prefira
+1. É um ponto importante lembrar que sem energia o sistema não funciona
+2. Lembre-se também que não vai gerar resultados em tempo real sem o Arduino estar conectado à internet
+3. Obs: O Arduino pode ser substituido por uma EP32 caso prefira
