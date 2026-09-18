@@ -53,7 +53,7 @@ void loop() {
   umidade_solo = umidadeSoloTemp;
 
   // ð§ª SimulaÃ§Ã£o do pH do solo
-  ph = random(55, 75) / 10.0; // Simula pH entre 5.5 e 7.5
+  ph = random(55, 75) / 10.0; // Simula pH entre 5.5 e 7.5 (simulação realizada para a feira de ciências da escola, pois o sensor de pH havia queimado. Todos estavam ciente disso, não houve enganação)
 
   // ð¡ï¸ Leitura da Temperatura (Â°C)
   float tempC = dht.readTemperature();
